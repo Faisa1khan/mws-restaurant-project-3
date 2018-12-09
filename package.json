@@ -1,0 +1,53 @@
+{
+  "name": "mws-restaurant-project-1",
+  "version": "1.0.0",
+  "description": "Udacity Projects",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faisa1khan/mws-restaurant-project-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faisa1khan/mws-restaurant-project-1/issues"
+  },
+  "homepage": "https://github.com/Faisa1khan/mws-restaurant-project-1#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babelify": "^8.0.0",
+    "browser-sync": "^2.26.3",
+    "browserify": "^16.2.2",
+    "connect-gzip-static": "^2.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.6.1",
+    "gulp-gzip": "^1.4.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-inline": "^1.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-webp": "^3.0.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.2.0",
+    "gulp-babel": "^8.0.0",
+    "idb": "^2.1.3",
+    "natives": "^1.1.6",
+    "uglify-es": "^3.3.9",
+    "workbox-build": "^3.2.0"
+  }
+}
